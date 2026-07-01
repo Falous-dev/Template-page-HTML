@@ -3,7 +3,7 @@
 ## Francais
 
 **📄 Présentation**
-Le fichier index.html est un exemple de page 404 que vous pouvez utiliser ou modifier, mais uniquement à des fins non commerciales.
+Le fichier index.html est un exemple de page 404 que vous pouvez utiliser ou modifier.
 
 Ce fichier est composé de HTML et de CSS, et il est personnalisable de A à Z.
 
@@ -21,7 +21,7 @@ Aucune assistance, garantie de fonctionnement, ni obligation de correction n’e
 ## Anglais
 
 **📄 Overview**
-The index.html file is an example of a 404 error page that you are free to use or modify, but only for non-commercial purposes.
+The index.html file is an example of a 404 error page that you are free to use or modifym.
 
 This file is built with HTML and CSS, and is fully customizable from A to Z.
 
